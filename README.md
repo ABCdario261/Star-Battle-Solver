@@ -1,6 +1,6 @@
 # Star Battle Solver (Prolog)
 
-Este projeto consiste na implementação de um solver do puzzle "Star Battle" em Prolog, para a cadeira de LP
+Este projeto consiste na implementação de um solver do puzzle "Star Battle" em Prolog, para a cadeira Lógica para programação
 
 O objetivo do programa é resolver automaticamente tabuleiros do puzzle, respeitando 
 todas as regras do jogo através de raciocínio lógico e programação declarativa.
